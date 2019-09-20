@@ -1,0 +1,7 @@
+.jumbotron {
+    margin: 100px;
+   border-left: 100px;
+}
+.card-body {
+    border-left: 300px;
+}
